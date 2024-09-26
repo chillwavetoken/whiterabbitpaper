@@ -1,2 +1,2 @@
-# whiterabbitpaper
-Follow the white rabbit
+# zenrabbitpaper
+Follow the zen rabbit
